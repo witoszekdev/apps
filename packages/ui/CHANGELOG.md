@@ -1,5 +1,11 @@
 # @saleor/apps-ui
 
+## 1.1.2
+
+### Patch Changes
+
+- 860bac4: Updated @saleor/app-sdk to 0.40.1
+
 ## 1.1.1
 
 ### Patch Changes

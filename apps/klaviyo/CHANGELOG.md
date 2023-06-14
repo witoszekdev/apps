@@ -1,5 +1,17 @@
 # saleor-app-klaviyo
 
+## 1.7.0
+
+### Minor Changes
+
+- 1dead1e: Included dedicated logo and attached it to App's manifest. From Saleor 3.15 the logo will be visible in the Dashboard during and after installation.
+
+### Patch Changes
+
+- 860bac4: Updated @saleor/app-sdk to 0.40.1
+- Updated dependencies [860bac4]
+  - @saleor/apps-shared@1.7.2
+
 ## 1.6.6
 
 ### Patch Changes

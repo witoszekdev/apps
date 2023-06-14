@@ -1,5 +1,19 @@
 # saleor-app-search
 
+## 1.10.0
+
+### Minor Changes
+
+- 1dead1e: Included dedicated logo and attached it to App's manifest. From Saleor 3.15 the logo will be visible in the Dashboard during and after installation.
+
+### Patch Changes
+
+- 860bac4: Updated @saleor/app-sdk to 0.40.1
+- cce3c1e: Regression - Fixed Algolia "index prefix" field to be optional, just like it was before the refcator.
+- Updated dependencies [860bac4]
+  - @saleor/apps-shared@1.7.2
+  - @saleor/apps-ui@1.1.2
+
 ## 1.9.4
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @saleor/apps-shared
 
+## 1.7.2
+
+### Patch Changes
+
+- 860bac4: Updated @saleor/app-sdk to 0.40.1
+
 ## 1.7.1
 
 ### Patch Changes
